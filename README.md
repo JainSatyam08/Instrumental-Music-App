@@ -16,8 +16,10 @@ for relaxation, focus, and creative projects.
 - Build System: Gradle
 
 
-## Download
-APK is available in the Releases section.
+
+## Download APK
+👉 [Download Instrumental Music App (APK)](https://github.com/JainSatyam08/Instrumental-Music-App/releases/latest)
+
 
 ## Developer
 Satyam Jain
